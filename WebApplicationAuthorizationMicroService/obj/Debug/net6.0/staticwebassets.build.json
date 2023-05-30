@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IFl/if+H9+cYSN6AhYYxsjPssR7RZndfei3sGcwNpVs=",
+  "Source": "WebApplicationAuthorizationMicroService",
+  "BasePath": "_content/WebApplicationAuthorizationMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

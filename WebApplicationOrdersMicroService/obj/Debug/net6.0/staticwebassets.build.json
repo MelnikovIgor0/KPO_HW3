@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nv+y5yEEkcWdYSgUieqv6YrbFa54gkEDHG/VTbyhBa0=",
+  "Source": "WebApplicationOrdersMicroService",
+  "BasePath": "_content/WebApplicationOrdersMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
